@@ -1,0 +1,28 @@
+#main-content {
+    margin: 20px;
+}
+#chicken-box {
+    border: 1px solid black;
+}
+.navbar {
+    background-color: #32566b;
+    font-weight: bold;
+}
+.navbar-brand {
+    color: white;
+}
+@media (max-width: 767px) {
+    #bs-example-navbar-collapse-1 {
+        background-color: #c9d1d6;
+    }
+}
+#chicken-box {
+    background-color: rgb(124, 178, 199);
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#pls-stop-being-gray {
+    color:white;
+}
